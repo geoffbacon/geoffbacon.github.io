@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geoff Bacon</title>
+    <link>https://geoffbacon.github.io/author/geoff-bacon/</link>
+      <atom:link href="https://geoffbacon.github.io/author/geoff-bacon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geoff Bacon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <image>
+      <url>https://geoffbacon.github.io/author/geoff-bacon/avatar_hucf632c13bc5f10fa3e6784fd9460433e_252574_270x270_fill_lanczos_center_2.png</url>
+      <title>Geoff Bacon</title>
+      <link>https://geoffbacon.github.io/author/geoff-bacon/</link>
+    </image>
+    
+  </channel>
+</rss>

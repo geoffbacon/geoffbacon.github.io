@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geoff Bacon</title>
+    <link>https://geoffbacon.github.io/</link>
+      <atom:link href="https://geoffbacon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geoff Bacon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geoffbacon.github.io/img/geoffbacon.png</url>
+      <title>Geoff Bacon</title>
+      <link>https://geoffbacon.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Data Science for digital humanists</title>
+      <link>https://geoffbacon.github.io/talk/data-science-humanists-2018/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://geoffbacon.github.io/talk/data-science-humanists-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An introduction to computational text analysis</title>
+      <link>https://geoffbacon.github.io/talk/data-scholars-2018/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://geoffbacon.github.io/talk/data-scholars-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RightsCon 2018</title>
+      <link>https://geoffbacon.github.io/talk/rightscon-2018/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://geoffbacon.github.io/talk/rightscon-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
